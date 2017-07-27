@@ -1,3 +1,6 @@
+body{
+  margin: 0 auto;
+}
 .carousel-text {
   background-color: rgba(0, 0, 0, 0) !important;
   width: 60%;
@@ -16,8 +19,15 @@
 }
 
 .tcl{
-  text-align: center;
+
+  background-image: linear-gradient(132deg, #26c6da, #f06292);
+  background-size: 200% 200%;
+  animation: BackgroundGradient 10s ease infinite;
+  height: auto;
+  width: 98.57vw;
   color: #fff;
+  padding: 10px;
+  text-align: center;
 }
 
 .post-container{
