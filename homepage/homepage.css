@@ -28,7 +28,12 @@ body{
   color: #fff;
   text-align: center;
 }
-
+.tcl-text
+{
+  padding: 20px;
+  min-height: 99vh;
+  font-size: 1.15rem;
+}
 .post-container{
   margin-top: 0.5rem;
   margin-bottom: 1rem;
