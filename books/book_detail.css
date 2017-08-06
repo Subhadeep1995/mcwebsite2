@@ -1,0 +1,23 @@
+body
+{
+    background: #efefef;
+}
+
+.container
+{
+    background: #fff;
+}
+.book-image
+{
+    height: 80vh;
+    margin-top: 50px;
+    padding: 15px;
+}
+.book-image img{
+    height: 100%;
+}
+.book-details
+{
+    margin-top: 50px;
+    padding: 15px;
+}
