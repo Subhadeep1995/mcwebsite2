@@ -1,0 +1,39 @@
+body
+{
+	background: #efefef;
+}
+header
+{
+	text-align: center;
+	background: #fff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1
+{
+	font-size: 4rem;
+}
+.book
+{
+    height: 400px;
+    background: #fff;
+    margin-top: 50px;
+	box-shadow: 2px 1px 5px #ccc;
+}
+.book:hover
+{
+    box-shadow: 2px 1px 18px #ccc;
+}
+.book-image{
+    height: 250px;
+    text-align: center;
+    padding: 15px;
+}
+.book-image img
+{
+    height: 100%;
+}
+.book-detail
+{
+    padding: 15px;
+}
